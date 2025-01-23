@@ -23,8 +23,8 @@ An interactive web application that provides herbal remedies for common ailments
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/virtual-herbal-garden.git
-cd virtual-herbal-garden
+git clone (https://github.com/Lokesh1028/herbal-garden.git)
+cd herbal-garden
 
 npm run dev 
 
